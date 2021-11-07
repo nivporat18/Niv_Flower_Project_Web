@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Niv_Project/static/css/main.62995c8a.chunk.css",
+    "main.css": "/Niv_Project/static/css/main.7dcae797.chunk.css",
     "main.js": "/Niv_Project/static/js/main.dbe1c46d.chunk.js",
     "main.js.map": "/Niv_Project/static/js/main.dbe1c46d.chunk.js.map",
     "runtime-main.js": "/Niv_Project/static/js/runtime-main.f24358f2.js",
@@ -10,7 +10,7 @@
     "static/js/3.f9b1c770.chunk.js": "/Niv_Project/static/js/3.f9b1c770.chunk.js",
     "static/js/3.f9b1c770.chunk.js.map": "/Niv_Project/static/js/3.f9b1c770.chunk.js.map",
     "index.html": "/Niv_Project/index.html",
-    "static/css/main.62995c8a.chunk.css.map": "/Niv_Project/static/css/main.62995c8a.chunk.css.map",
+    "static/css/main.7dcae797.chunk.css.map": "/Niv_Project/static/css/main.7dcae797.chunk.css.map",
     "static/js/2.1df2751a.chunk.js.LICENSE.txt": "/Niv_Project/static/js/2.1df2751a.chunk.js.LICENSE.txt",
     "static/media/almogFlower.3fc3277d.mp4": "/Niv_Project/static/media/almogFlower.3fc3277d.mp4",
     "static/media/instegram.56cf87c4.png": "/Niv_Project/static/media/instegram.56cf87c4.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.f24358f2.js",
     "static/js/2.1df2751a.chunk.js",
-    "static/css/main.62995c8a.chunk.css",
+    "static/css/main.7dcae797.chunk.css",
     "static/js/main.dbe1c46d.chunk.js"
   ]
 }
